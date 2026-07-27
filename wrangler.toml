@@ -1,5 +1,7 @@
-name = "fals-website"
+name = "fals"
 compatibility_date = "2026-07-27"
 
 [assets]
 directory = "./"
+not_found_handling = "single-page-application"
+html_handling = "auto-trailing-slash"
